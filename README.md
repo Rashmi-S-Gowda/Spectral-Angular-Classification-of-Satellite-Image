@@ -1,0 +1,2 @@
+# Spectral-Angular-Classification-of-Satellite-Image
+A software package is built for display and classification of Hyperspectral Images captured byIMS-1 HySI sensor has been developed using SAM.The construction and display of the 3-D cube by considering all the 64 bands of image at a time. The identification of classes in the Hyperspectral Image using a supervised classification algorithm called the Spectral Angle Mapper Algorithm. Results are obtained to read and reorganize multiple 2-D datasets into a single compact 3D dataset cube.
